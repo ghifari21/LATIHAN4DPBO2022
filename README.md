@@ -47,4 +47,4 @@ py (nama file).py
 - ### Job Class
   ![Latihan 4 Job Class](https://github.com/ghifari21/LATIHAN4DPBO2022/blob/8d25e49bb9cedc7a6d33d4eacfb11311ba88b722/Screenshot/Latihan4_JobClass.png)
 
-## Thankyou
+## ありがとう
