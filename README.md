@@ -12,7 +12,7 @@ Modul dari latihan ini dapat di akses melalui [Modul 4 - Multiple & Hierarchical
 
 Dalam project kali ini hanya menggunakan satu bahasa pemrograman saja, yaitu Python.
 
-### Desain Project dan Penjelasan Project
+### Desain dan Penjelasan Project
 
 <p align="center">
   <img src="https://github.com/ghifari21/LATIHAN4DPBO2022/blob/8d25e49bb9cedc7a6d33d4eacfb11311ba88b722/Desain%20Tugas%204.png" alt="Desain Latihan 4"/>
